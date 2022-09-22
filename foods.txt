@@ -2,3 +2,6 @@ miso
 kimchi
 sauerkraut
 cheese
+bier 
+wine
+Kombucha
